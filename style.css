@@ -1,0 +1,145 @@
+*
+{
+
+margin: 0px;	
+outline: 0px;
+padding: 0px;
+
+}
+#logo
+{
+	display:block;
+height: 200px;
+width: 200px;	
+	
+}	
+.add_buyer_form, .add_item_form, .delete_buyer_form, .delete_item_form, .login_form, .relogin_form
+{
+ 
+	margin-left: 500px;
+}
+
+  
+
+.label
+{
+	display: inline-block;
+ 
+	width: 130px;
+	
+}	
+   
+  .text, .password
+  {
+  margin-top: 10px;	
+	
+  } 
+
+ 
+ 
+.submit
+{
+	margin-top: 5px;
+}
+	.logout
+	{
+ 
+height: 40px;
+	width: 7.5%;
+position: absolute;
+top: 0px;
+right: 0px;	
+	}
+
+	.back
+	{
+ 
+height: 40px;
+	width: 7.5%;
+	position: absolute;
+	right:    0px;
+	bottom:   0px;
+	}
+	.additem
+	{
+ 
+height: 40px;
+	width: 7.5%;
+	position: absolute;
+	right:    100px;
+	bottom:  50px;
+	}
+	
+	.generalbutton{
+		margin-bottom: 12px!important;
+	}
+
+	/* .button {
+	  margin-top:10px;
+	  height: 40px;
+	  width: 7.5%;
+	  position: fixed;
+	  right:    0px;
+	  bottom:   0px;
+	  font: bold 11px Arial;
+	  text-decoration: none;
+	  text-align: center;
+	  background-color: #EEEEEE;
+	  color: #333333;
+	  padding: 5px;
+	  border-top: 1px solid #CCCCCC;
+	  border-right: 1px solid #333333;
+	  border-bottom: 1px solid #333333;
+	  border-left: 1px solid #CCCCCC;
+	} */
+	/* .button {
+		background-color: #4CAF50;
+		border: none;
+		color: black;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	  } */
+ 
+.item
+{
+	border: 1px solid gray;
+	display: inline-block;
+	margin: 5px;
+	width: 200px;
+}
+.item_row
+{	border-top: 1px solid gray;
+ 
+	width: 100%;
+}
+
+
+
+.item_img
+{
+	
+	height: 150px;
+	width: 150px;
+}
+
+
+.link
+{
+	text-decoration: none;
+	color: black;
+}
+
+	#exit_title
+	{
+
+position:absolute;		
+left: 35%;
+top: 20%;		
+	}
+
+ 
